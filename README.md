@@ -1,4 +1,4 @@
-<h1>Olá! Meu nome é Hygor Monteiro!!!</h1>
+<h1>Olá! Me chamo Hygor Monteiro!!!</h1>
 
 - 👨‍🎓 Atualmente estudante de Analise e Desenvolvimento de Sistemas 
 - 🌱 Minha stack é Front-end, e estou me aprofudando nas tecnologias voltadas a área.
